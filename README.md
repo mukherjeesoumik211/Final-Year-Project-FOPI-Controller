@@ -1,9 +1,10 @@
 # Final-Year-Project-FOPI-Controller
-Design and Simulation of an Optimised Fractional-Order PI Controller for a PV Inverter using MATLAB/Simulink.
-# Design and Simulation of an Optimised Fractional-Order PI (FOPI) Controller for a PV Inverter
+Design and Simulation of an Optimised Fractional-Order PI Controller for a PV Inverter using SPWM method.
+
+# Design and Simulation of an Optimised Fractional-Order PI (FOPI) Controller for a PV Inverter using SPWM method
 
 ## 1. Project Overview
-This project focuses on designing and simulating an optimised Fractional Order Proportional-Integral (FOPI) controller for a Photovoltaic (PV) inverter to improve control performance and system stability.
+This project focuses on designing and simulating an optimised Fractional Order Proportional-Integral (FOPI) controller for a Photovoltaic (PV) inverter using SPWM method to improve control performance and system stability.
 
 ## 2. Project Objectives
 - To design an optimised FOPI controller for a PV inverter.
